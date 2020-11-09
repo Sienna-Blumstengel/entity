@@ -10,6 +10,7 @@ Nov 4th - Payment
 Nov 12th - BComp
 ----
 #### Entities
+* EMORY CREEK LOT OWNERS CO-OPERATIVE ASSOCIATION CP0001185 - filings completed out of order
 * New alteration email templates ([Google doc](https://docs.google.com/document/d/1WS-BtGhgppkUprzUWxVamQLtQfhFF9_XVhqNPjZGrkk/edit?usp=sharing))
 * Form 51, 52, 53, 47 (sienna link docs when gen is done on nov 9)
   * 51 & 52, court order date section wording: "Set out the date of **each** resolution or court order.." but you can only enter **one** date. this is the [current wording](https://www2.gov.bc.ca/assets/gov/employment-business-and-economic-development/business-management/permits-licences-and-registration/registries-forms/form_51_ulc_alteration_to_a_bc_benefit_company.pdf), do we want it? Just noticed it looks werid when we separated court orderout into it's own section. 
